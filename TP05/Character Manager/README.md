@@ -46,6 +46,7 @@ Link Google Docs: [https://docs.google.com/document/d/1StKogg62ViMKlBcTAEO96wD5X
 ### 7. Teknologi
 - Java
 - VS Code
+<<<<<<< HEAD
 - Git dan GitHub
 
 
@@ -92,3 +93,6 @@ membuat program lebih mudah dirawat.
 ### Dokumentasi Analisis TP8
 
 [Google Docs — Analisis GUI dan MVC](https://docs.google.com/document/d/1f-ECuWz--cHbNq6ZMyi9WH1w2WBP8pyJzqAXe657lE8/edit?usp=sharing)
+=======
+- Git dan GitHub
+>>>>>>> 1839b646989e05707c098950befb06f2ce90a90e
